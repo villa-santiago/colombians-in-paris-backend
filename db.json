@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "21e0",
+      "title": "Clases de Español a domicilio",
+      "author": "Santiago Villa",
+      "category": "Idiomas",
+      "location": "Paris 13 - Gobelins",
+      "description": "Hola, cuento con 10 años de experiencia enseñando Español.",
+      "price": "25",
+      "contact": "hello@santiagovilla.it",
+      "phone": "+33652084922",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "7c5b",
+      "title": "Clases de salsa",
+      "author": "Pedro Martínez",
+      "category": "Clases",
+      "location": "Paris 5 - Panthéon",
+      "description": "Te enseño a bailar salsa.",
+      "price": "11",
+      "contact": "pedro.martinez@hotmail.com",
+      "phone": "+33652084988",
+      "date": "2025-05-13"
+    }
+  ]
+}
