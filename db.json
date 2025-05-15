@@ -1,18 +1,6 @@
 {
   "posts": [
     {
-      "id": "001a",
-      "title": "Taller de cerámica creativa",
-      "author": "Lucía Ramírez",
-      "category": "Artesanía",
-      "location": "París 3 - Temple",
-      "description": "Explora tu creatividad modelando arcilla y creando piezas únicas en un ambiente relajado y artístico.",
-      "price": "35",
-      "contact": "lucia.ramirez@example.com",
-      "phone": "+33758901345",
-      "date": "2025-05-15"
-    },
-    {
       "id": "002b",
       "title": "Curso de cocina francesa tradicional",
       "author": "Andrés López",
@@ -227,7 +215,18 @@
       "contact": "ivan.herrera@example.com",
       "phone": "+33644332211",
       "date": "2025-05-15"
+    },
+    {
+      "title": "Clases de espanol",
+      "author": "Santiago Villa",
+      "category": "Clases",
+      "location": "Paris 8 - Élysée",
+      "description": "te enseno a hablar espanol",
+      "price": "25",
+      "contact": "hello@santiagovilla.it",
+      "phone": "+33652084922",
+      "date": "2025-05-15",
+      "id": "HY_r_bc"
     }
   ]
 }
- 
